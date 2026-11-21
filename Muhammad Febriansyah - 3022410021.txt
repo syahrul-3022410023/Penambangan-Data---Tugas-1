@@ -1,0 +1,12 @@
+DESKRIPSI KASUS
+
+Nama Partner: Muhammad febriansyah
+NIM:3022410021
+
+Deskripsi Kasus:
+
+Kasus yang diberikan berkaitan dengan perkembangan Artificial Intelligence (AI) dan pengaruhnya terhadap berbagai jenis pekerjaan. Dataset yang digunakan berisi informasi mengenai pekerjaan, tingkat paparan AI, jumlah tugas yang dapat dilakukan menggunakan AI secara mandiri maupun dengan bantuan software, jumlah tugas yang tidak terpapar AI, jumlah tenaga kerja, serta rata-rata gaji tahunan.
+
+Data ini digunakan untuk melihat perbedaan tingkat paparan AI pada berbagai pekerjaan dan memahami bagaimana teknologi AI berpotensi membantu, mengubah, atau memengaruhi aktivitas kerja manusia. Analisis dilakukan dengan mengolah data yang tersedia agar dapat memberikan gambaran mengenai karakteristik pekerjaan berdasarkan tingkat paparan AI.
+
+Dataset yang diberikan menjadi dasar dalam proses Data Understanding dan Data Preprocessing, meliputi pemeriksaan struktur data, penanganan missing value, pengecekan duplikasi, pemeriksaan outlier, serta transformasi data agar dapat digunakan untuk analisis selanjutnya.
